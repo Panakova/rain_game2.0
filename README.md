@@ -1,2 +1,2 @@
-# rain_game2.1
+# rain_game2.0
 school project
